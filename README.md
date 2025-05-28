@@ -1,10 +1,16 @@
-Hi, I'm Yian Zha, a junior undergraduate majoring in Software Engineering at Nanjing University of Science and Technology.
+## Hi, I'm Yian Zha
 
-Still figuring out where my interests lie in computer science. I hope to discover meaningful problems and grow through long-term research.
+🎓 Junior undergraduate majoring in Software Engineering at Nanjing University of Science and Technology.
 
-我只是在试图了解世界，努力接近真相。
+🧭 Still figuring out where my interests lie in computer science.  
+🌱 I hope to discover meaningful problems and grow through long-term research.
 
-📫 Email: zhayian@njust.edu.cn
+🪐 我只是在试图了解世界，努力接近真相。
+
+---
+
+📫 **Email**: zhayian@njust.edu.cn  
+
 
 <!--
 **zya219/zya219** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
