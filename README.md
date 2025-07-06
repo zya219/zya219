@@ -2,7 +2,7 @@
 
 🎓 Junior undergraduate majoring in Software Engineering at Nanjing University of Science and Technology.
 
-🧭 Still clarifying my interests in AI theory and learning algorithms.  
+🧭 Still clarifying my interests in AI4S and learning algorithms.  
 🌱 I hope to discover meaningful problems and grow through long-term research.
 
 🪐 我只是在试图了解世界，努力接近真相。
