@@ -1,9 +1,8 @@
 ## Hi, I'm Yian Zha
 
-🎓 Junior undergraduate majoring in Software Engineering at Nanjing University of Science and Technology.
+🔭 I am interested in understanding and modeling intelligence through learning, reasoning, memory, and decision-making.
 
-🧭 Still clarifying my interests in AI4SE and learning algorithms.  
-🌱 I hope to discover meaningful problems and grow through long-term research.
+🌱 Currently exploring knowledge-enhanced language models, with a focus on agents, retrieval, and memory.
 
 🪐 我只是在试图了解世界，努力接近真相。
 
